@@ -12,7 +12,7 @@ Incident Reporting analyze DNS and ICMP traffic in transit using data from a net
 
 
 - TCPDump log
-- 
+  
 ## Steps
 Cybersecurity Incident report
 [Cybersecurity incident report network traffic analysis y (1).pdf](https://github.com/user-attachments/files/18814886/Cybersecurity.incident.report.network.traffic.analysis.y.1.pdf)
